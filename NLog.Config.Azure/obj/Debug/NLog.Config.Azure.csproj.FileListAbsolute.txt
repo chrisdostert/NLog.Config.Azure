@@ -1,0 +1,8 @@
+E:\Code\NLog.Config.Azure\NLog.Config.Azure\bin\Debug\NLog.Config.Azure.dll
+E:\Code\NLog.Config.Azure\NLog.Config.Azure\bin\Debug\NLog.Config.Azure.pdb
+E:\Code\NLog.Config.Azure\NLog.Config.Azure\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+E:\Code\NLog.Config.Azure\NLog.Config.Azure\bin\Debug\NLog.dll
+E:\Code\NLog.Config.Azure\NLog.Config.Azure\bin\Debug\NLog.xml
+E:\Code\NLog.Config.Azure\NLog.Config.Azure\obj\Debug\NLog.Config.Azure.csprojResolveAssemblyReference.cache
+E:\Code\NLog.Config.Azure\NLog.Config.Azure\obj\Debug\NLog.Config.Azure.dll
+E:\Code\NLog.Config.Azure\NLog.Config.Azure\obj\Debug\NLog.Config.Azure.pdb

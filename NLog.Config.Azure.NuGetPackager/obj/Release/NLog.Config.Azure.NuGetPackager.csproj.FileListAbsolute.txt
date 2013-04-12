@@ -1,0 +1,5 @@
+E:\Code\NLog.Config.Azure\NLog.Config.Azure.NuGetPackager\bin\Release\NLog.Config.Azure.NuGetPackager.dll
+E:\Code\NLog.Config.Azure\NLog.Config.Azure.NuGetPackager\bin\Release\NLog.Config.Azure.NuGetPackager.pdb
+E:\Code\NLog.Config.Azure\NLog.Config.Azure.NuGetPackager\obj\Release\NLog.Config.Azure.NuGetPackager.csprojResolveAssemblyReference.cache
+E:\Code\NLog.Config.Azure\NLog.Config.Azure.NuGetPackager\obj\Release\NLog.Config.Azure.NuGetPackager.dll
+E:\Code\NLog.Config.Azure\NLog.Config.Azure.NuGetPackager\obj\Release\NLog.Config.Azure.NuGetPackager.pdb
