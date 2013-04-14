@@ -1,6 +1,7 @@
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using NLog;
+using NLog.Targets;
 
 namespace NLog.Config.Azure.Tests
 {
@@ -13,7 +14,8 @@ namespace NLog.Config.Azure.Tests
         public void Initialize()
         {
             new AzureLoggingConfiguration().Init();
-            _logger = LogManager.GetLogger("test");
+
+            _logger = LogManager.GetCurrentClassLogger();
         }
 
         #endregion

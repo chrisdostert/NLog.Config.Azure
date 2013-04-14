@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>NLog.Config.Azure</id>
-    <version>0.0.2-alpha</version>
+    <version>0.0.3-alpha</version>
     <title>NLog.Config.Azure</title>
     <authors>chrisdostert</authors>
     <owners>chrisdostert</owners>

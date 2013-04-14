@@ -10,8 +10,15 @@ namespace NLog.Config.Azure
         public AzureLoggingConfiguration()
         {
             LoggingConfiguration = new LoggingConfiguration();
-            // init etls
-            EnabledEtls = new List<IEtl> { new RulesEtl(), new ThrowExceptionEtl(), new TargetsEtl() };
+
+            // init etls 
+            // Note: ORDER IS IMPORTANT!!
+            EnabledEtls = new List<IEtl>
+                {
+                    new TargetsEtl(),
+                    new RulesEtl(), // Rules depend on targets to be defined
+                    new ThrowExceptionEtl()
+                };
         }
 
         #region Properties
@@ -41,6 +48,7 @@ namespace NLog.Config.Azure
                 etl.Transform();
                 etl.Load(LoggingConfiguration);
             }
+
 
             LogManager.Configuration = LoggingConfiguration;
         }

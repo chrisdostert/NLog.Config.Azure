@@ -98,7 +98,8 @@ namespace NLog.Config.Azure.Etls
                 }
 
                 // create an instance of the target type
-                var targetInstance = Activator.CreateInstance(targetType);
+                var targetInstance = (Target)Activator.CreateInstance(targetType);
+                targetInstance.Name = xTarget.Attribute("name").Value;
 
                 var attributes = xTarget.Attributes();
                 foreach (var attribute in attributes)
@@ -133,8 +134,7 @@ namespace NLog.Config.Azure.Etls
                     }
                 }
 
-                var targetName = xTarget.Attribute("name").Value;
-                loggingConfiguration.AddTarget(targetName, (Target)targetInstance);
+                loggingConfiguration.AddTarget(targetInstance.Name,targetInstance);
             }
         }
 
