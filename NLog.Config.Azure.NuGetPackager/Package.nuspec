@@ -2,12 +2,12 @@
 <package >
   <metadata>
     <id>NLog.Config.Azure</id>
-    <version>0.0.1.4</version>
+    <version>0.0.2-alpha</version>
     <title>NLog.Config.Azure</title>
     <authors>chrisdostert</authors>
     <owners>chrisdostert</owners>
     <description>
-      Allows the NLog configuration to be stored in Azure Configuration settings rather than a local XML file
+      Allows the NLog XML configuration to be stored in an Azure Configuration settings rather than a local XML file
     </description>
     <releaseNotes>
     </releaseNotes>

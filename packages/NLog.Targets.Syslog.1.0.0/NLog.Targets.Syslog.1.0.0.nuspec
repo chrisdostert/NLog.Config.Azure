@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>NLog.Targets.Syslog</id>
+    <version>1.0.0</version>
+    <title>NLog.Targets.Syslog</title>
+    <authors>Jesper Hess Nielsen,  Nicolas Graziano,  Joe Fitzgerald</authors>
+    <owners>Jesper Hess Nielsen,  Nicolas Graziano,  Joe Fitzgerald</owners>
+    <licenseUrl>https://github.com/joefitzgerald/NLog.Targets.Syslog/blob/master/License.txt</licenseUrl>
+    <projectUrl>https://github.com/joefitzgerald/NLog.Targets.Syslog</projectUrl>
+    <iconUrl>http://nlog-project.org/N.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>The NLog Syslog Target is a custom target for NLog version 2.0 allowing you to send logging messages to a UNIX-style Syslog server.</description>
+    <releaseNotes />
+    <copyright />
+    <language />
+    <tags>NLog Syslog Log Logging</tags>
+    <dependencies>
+      <dependency id="NLog" version="2.0.0.2000" />
+    </dependencies>
+    <references>
+      <reference file="NLog.Targets.Syslog.dll" />
+    </references>
+  </metadata>
+</package>

@@ -48,11 +48,16 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AzureLoggingConfiguration.cs" />
+    <Compile Include="Etls\IEtl.cs" />
+    <Compile Include="Etls\RulesEtl.cs" />
+    <Compile Include="Etls\TargetsEtl.cs" />
+    <Compile Include="Etls\ThrowExceptionEtl.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Import Project="$(SolutionDir)\.nuget\nuget.targets" />
   <PropertyGroup>
