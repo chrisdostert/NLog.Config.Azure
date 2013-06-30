@@ -14,3 +14,11 @@ E:\GitHub\NLog.Config.Azure\NLog.Config.Azure\bin\Release\NLog.xml
 E:\GitHub\NLog.Config.Azure\NLog.Config.Azure\obj\Release\NLog.Config.Azure.csprojResolveAssemblyReference.cache
 E:\GitHub\NLog.Config.Azure\NLog.Config.Azure\obj\Release\NLog.Config.Azure.dll
 E:\GitHub\NLog.Config.Azure\NLog.Config.Azure\obj\Release\NLog.Config.Azure.pdb
+C:\Dev\NLog.Config.Azure\NLog.Config.Azure\bin\Release\NLog.Config.Azure.dll
+C:\Dev\NLog.Config.Azure\NLog.Config.Azure\bin\Release\NLog.Config.Azure.pdb
+C:\Dev\NLog.Config.Azure\NLog.Config.Azure\bin\Release\Microsoft.WindowsAzure.Configuration.dll
+C:\Dev\NLog.Config.Azure\NLog.Config.Azure\bin\Release\NLog.dll
+C:\Dev\NLog.Config.Azure\NLog.Config.Azure\bin\Release\NLog.xml
+C:\Dev\NLog.Config.Azure\NLog.Config.Azure\obj\Release\NLog.Config.Azure.csprojResolveAssemblyReference.cache
+C:\Dev\NLog.Config.Azure\NLog.Config.Azure\obj\Release\NLog.Config.Azure.dll
+C:\Dev\NLog.Config.Azure\NLog.Config.Azure\obj\Release\NLog.Config.Azure.pdb
