@@ -8,3 +8,8 @@ E:\GitHub\NLog.Config.Azure\NLog.Config.Azure.NuGetPackager\bin\Release\NLog.Con
 E:\GitHub\NLog.Config.Azure\NLog.Config.Azure.NuGetPackager\obj\Release\NLog.Config.Azure.NuGetPackager.csprojResolveAssemblyReference.cache
 E:\GitHub\NLog.Config.Azure\NLog.Config.Azure.NuGetPackager\obj\Release\NLog.Config.Azure.NuGetPackager.dll
 E:\GitHub\NLog.Config.Azure\NLog.Config.Azure.NuGetPackager\obj\Release\NLog.Config.Azure.NuGetPackager.pdb
+C:\Dev\NLog.Config.Azure\NLog.Config.Azure.NuGetPackager\bin\Release\NLog.Config.Azure.NuGetPackager.dll
+C:\Dev\NLog.Config.Azure\NLog.Config.Azure.NuGetPackager\bin\Release\NLog.Config.Azure.NuGetPackager.pdb
+C:\Dev\NLog.Config.Azure\NLog.Config.Azure.NuGetPackager\obj\Release\NLog.Config.Azure.NuGetPackager.csprojResolveAssemblyReference.cache
+C:\Dev\NLog.Config.Azure\NLog.Config.Azure.NuGetPackager\obj\Release\NLog.Config.Azure.NuGetPackager.dll
+C:\Dev\NLog.Config.Azure\NLog.Config.Azure.NuGetPackager\obj\Release\NLog.Config.Azure.NuGetPackager.pdb
