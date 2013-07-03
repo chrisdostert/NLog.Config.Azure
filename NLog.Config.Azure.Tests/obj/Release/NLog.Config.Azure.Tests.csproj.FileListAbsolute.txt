@@ -11,3 +11,16 @@ E:\GitHub\NLog.Config.Azure\NLog.Config.Azure.Tests\obj\Release\NLog.Config.Azur
 E:\GitHub\NLog.Config.Azure\NLog.Config.Azure.Tests\bin\Release\NLog.Config.Azure.Tests.dll.config
 E:\GitHub\NLog.Config.Azure\NLog.Config.Azure.Tests\bin\Release\NLog.Targets.Syslog.dll
 E:\GitHub\NLog.Config.Azure\NLog.Config.Azure.Tests\bin\Release\NLog.Targets.Syslog.pdb
+C:\Dev\NLog.Config.Azure\NLog.Config.Azure.Tests\bin\Release\NLog.Config.Azure.Tests.dll.config
+C:\Dev\NLog.Config.Azure\NLog.Config.Azure.Tests\bin\Release\NLog.Config.Azure.Tests.dll
+C:\Dev\NLog.Config.Azure\NLog.Config.Azure.Tests\bin\Release\NLog.Config.Azure.Tests.pdb
+C:\Dev\NLog.Config.Azure\NLog.Config.Azure.Tests\bin\Release\NLog.Config.Azure.dll
+C:\Dev\NLog.Config.Azure\NLog.Config.Azure.Tests\bin\Release\NLog.dll
+C:\Dev\NLog.Config.Azure\NLog.Config.Azure.Tests\bin\Release\NLog.Targets.Syslog.dll
+C:\Dev\NLog.Config.Azure\NLog.Config.Azure.Tests\bin\Release\Microsoft.WindowsAzure.Configuration.dll
+C:\Dev\NLog.Config.Azure\NLog.Config.Azure.Tests\bin\Release\NLog.Config.Azure.pdb
+C:\Dev\NLog.Config.Azure\NLog.Config.Azure.Tests\bin\Release\NLog.xml
+C:\Dev\NLog.Config.Azure\NLog.Config.Azure.Tests\bin\Release\NLog.Targets.Syslog.pdb
+C:\Dev\NLog.Config.Azure\NLog.Config.Azure.Tests\obj\Release\NLog.Config.Azure.Tests.csprojResolveAssemblyReference.cache
+C:\Dev\NLog.Config.Azure\NLog.Config.Azure.Tests\obj\Release\NLog.Config.Azure.Tests.dll
+C:\Dev\NLog.Config.Azure\NLog.Config.Azure.Tests\obj\Release\NLog.Config.Azure.Tests.pdb
