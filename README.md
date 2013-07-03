@@ -8,11 +8,17 @@ rather than a local XML file
 The easiest way to install is by using [Nuget](http://nuget.org/packages/NLog.Config.Azure/)
 
 **How to use:**
-1. Add a new setting to your azure settings with the name set to NLog.Config.Azure
 
-2. Enter a valid [NLog XML document](https://github.com/nlog/NLog/wiki/Configuration-file) into the Value field of the setting
+1. Add a new setting to your azure configuration settings with the name set to NLog.Config.Azure
 
-3. Wherever you bootstrap your application, just call: 
+2. Create a valid [NLog XML document](https://github.com/nlog/NLog/wiki/Configuration-file) containing your NLog configuration.
+
+3. [XML Escape](http://www.freeformatter.com/xml-escape.html) NLog Configuration.
+
+4. Paste your XML Encoded NLog Configuration into the Value field of the azure configuration setting.
+
+5. Wherever you bootstrap your application, just call: 
+
 ``` C#
 new AzureLoggingConfiguration().Init();
 ```
