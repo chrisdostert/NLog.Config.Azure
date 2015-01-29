@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Reflection;
 using System.Xml.Linq;
+using NLog.Layouts;
 using NLog.Targets;
 
 namespace NLog.Config.Azure.Etls
@@ -123,6 +124,13 @@ namespace NLog.Config.Azure.Etls
                         else if (member.PropertyType.GetInterfaces().Contains(typeof(IConvertible)))
                         {
                             member.SetValue(targetInstance, Convert.ChangeType(attribute.Value, member.PropertyType));
+                        }
+                        // special case for the layout property
+                        else if (member.PropertyType == typeof (Layout))
+                        {
+                            var layout = new Layouts.SimpleLayout(attribute.Value);
+                            member.SetValue(targetInstance,layout);
+                            
                         }
                         else
                         {
